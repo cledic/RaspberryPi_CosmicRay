@@ -10,4 +10,8 @@ Il programma "CamLoopCV_ver0.02.py" è sempre in esecuzione in backbround ed acq
 
 Il programma "CosmicImageSplit_ver0.02.py" estrae i singoli "DOT" trovati salvandoli separatamente e salvando in un file di testo "Report.lst" il nome dell'immagine da cui è stato estratto e le coordinate in cui appariva.
 
-Il programma "CreateTotalEventImg_ver0.02.py" invece legge tutte le immagini salvate e le monta in una unica immagine con il nome di "totalEvent.png"ù
+Il programma "CreateTotalEventImg_ver0.02.py" invece legge tutte le immagini salvate e le monta in una unica immagine con il nome di "totalEvent.png"
+
+Nel folder "images" ci sono alcuni esempi di immagini che ho catturato.
+
+
